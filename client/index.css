@@ -10,3 +10,9 @@
     height: 40px;
     cursor: pointer;
 }
+
+#resolve {
+    width: auto;
+    height: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
