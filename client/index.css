@@ -4,3 +4,9 @@
     height: 100vh;
     cursor: pointer;
 }
+
+#remove-button {
+    width: 25px;
+    height: 40px;
+    cursor: pointer;
+}
