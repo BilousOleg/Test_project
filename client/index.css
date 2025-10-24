@@ -16,3 +16,8 @@
     height: auto;
     font-family: 'Courier New', Courier, monospace;
 }
+
+#selection {
+    width: auto;
+    color: pink;
+}
